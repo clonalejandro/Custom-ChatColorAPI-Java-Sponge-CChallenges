@@ -23,7 +23,7 @@ ChatColor.RED;
 
 ## Download
 
-Click this -> [![Download](https://github.com/clonalejandro/Custom-ChatColorAPI-Java-Sponge-CChallenges/archive/master.zip)
+Click this -> [![Download](https://img.shields.io/badge/download-active-brightgreen.svg)](https://github.com/clonalejandro/Custom-ChatColorAPI-Java-Sponge-CChallenges/archive/master.zip)
 
 <br>
 
